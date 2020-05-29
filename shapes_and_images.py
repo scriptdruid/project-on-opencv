@@ -42,3 +42,4 @@ cv2.putText(img, "HELLO WORLD", (200, 100), cv2.FONT_ITALIC, 1, (0, 0, 255), 3)
 
 cv2.imshow("Black Image", img)
 cv2.waitKey(5000)
+∏
