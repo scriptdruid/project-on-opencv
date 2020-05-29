@@ -1,6 +1,5 @@
 import cv2
 
-
 # How to read images, videos, camera
 # Read images
 
